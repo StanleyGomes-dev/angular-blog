@@ -1,0 +1,30 @@
+.conteiner__content {
+    border: solid white 1px;
+    width: 100%;
+    height: 100%;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.content__cover{
+    border: solid gray 1px;
+}
+
+.content__cover >img {
+    border: solid gray 5px;
+    border-radius: 5px;
+}
+
+.content__description {
+    margin-top: 15px;
+}
+
+
+.content__description >p 
+
+{
+    color: gray;
+}
+
