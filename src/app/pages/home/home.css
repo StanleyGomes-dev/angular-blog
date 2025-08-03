@@ -1,6 +1,6 @@
 .conteiner__articles {
     display: flex;
-   flex-direction: row;
+    flex-direction: row;
     margin-top: 30px;
     justify-content: center;
 }
